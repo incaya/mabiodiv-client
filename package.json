@@ -1,11 +1,20 @@
 {
-  "name": "ol-react-test",
+  "name": "mabiodiv-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@apollo/react-hooks": "^3.1.1",
+    "apollo-boost": "^0.4.4",
+    "graphql": "^14.5.8",
+    "grommet": "^2.7.8",
+    "grommet-icons": "^4.3.0",
+    "moment": "^2.24.0",
+    "ol": "^5.3.3",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.2"
+    "react-scripts": "3.1.2",
+    "react-spinners": "^0.6.1",
+    "styled-components": "^4.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
